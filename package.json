@@ -2,7 +2,7 @@
   "name": "foundation-emails-template",
   "version": "1.0.0",
   "description": "Basic template for a Foundation for Emails project.",
-  "repository": "zurb/foundation-emails-template",
+  "repository": "https://github.com/Charstec/kayakEmail",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
